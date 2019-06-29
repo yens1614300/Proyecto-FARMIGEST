@@ -1,0 +1,20 @@
+SMAP
+compra_jsp.java
+JSP
+*S JSP
+*F
++ 0 compra.jsp
+compra.jsp
++ 1 header.jsp
+pagina_comun/header.jsp
++ 2 vertical.jsp
+pagina_comun/vertical.jsp
+*L
+1,19:54
+1#1,33:73
+34:106,3
+35,28:109
+19#0,5:136
+1#2,57:141
+23#0,30:197
+*E

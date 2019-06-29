@@ -1,0 +1,20 @@
+SMAP
+principal_jsp.java
+JSP
+*S JSP
+*F
++ 0 principal.jsp
+principal.jsp
++ 1 header.jsp
+pagina_comun/header.jsp
++ 2 vertical.jsp
+pagina_comun/vertical.jsp
+*L
+1,20:54
+1#1,33:74
+34:107,3
+35,28:110
+20#0,5:137
+1#2,41:142
+24#0,31:182
+*E
